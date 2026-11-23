@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=hopi+tribe",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=hopi+tribe",
+  "title": "GPO - Federal Register Hopi Tribe",
+  "fetched_at": "2026-11-23T14:32:42.848358Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 328532,
+  "sha256": "3f895da279ca625612736ff7401bb9d6785b57a6d0498e85be7ca07c8009a3b1",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
